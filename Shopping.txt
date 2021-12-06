@@ -68,4 +68,6 @@ adidas.com
 alphabetdeal.com
 homedepot.com
 bestbuy.com
+www.bestbuy.com
+stream.bestbuy.com
 ikea.com
